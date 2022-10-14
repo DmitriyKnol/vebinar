@@ -1,2 +1,1 @@
-# vabinar
 Hello World
